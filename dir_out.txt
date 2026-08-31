@@ -1,0 +1,14 @@
+total 2
+drwx---r-x 1 jackw jackw 0 2026-08-26 17:56 .
+drwx------ 1 jackw jackw 0 2026-08-26 17:59 ..
+-rw-rw-r-- 1 jackw jackw 0 2026-08-26 18:02 dir_out.txt
+drwxr-xr-x 1 jackw jackw 0 2026-08-26 17:34 scripts
+
+
+Above are the directory listings for this folder:
+/home/mobaxterm/praccomp2026
+
+
+
+Right now it is:
+Wed Aug 26 18:02:16 EDT 2026

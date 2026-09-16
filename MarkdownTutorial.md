@@ -53,8 +53,20 @@ http://brewerlab.net - automatic
 
 \*Literal asterisks\*
 
+- Generic
+
 ## FENCED CODE BLOCKS 
 
 ```
 echo "Hello"
+```
+
+- Python example
+
+```python
+print("Hello")
+```
+
+```r
+x<- $^2
 ```

@@ -49,3 +49,12 @@ http://brewerlab.net - automatic
 *Figure 1: Macuilxochitl (Aztec Deity)*
 
 
+## BACKSLASH ESCAPES
+
+\*Literal asterisks\*
+
+## FENCED CODE BLOCKS 
+
+```
+echo "Hello"
+```
